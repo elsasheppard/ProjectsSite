@@ -1,0 +1,73 @@
+#container {
+  font-family: 'Raleway', sans-serif;
+  width: 1700px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#header {
+  font-size: 30px;
+	width: 1700px;
+	margin-left: auto;
+	margin-right: auto;
+  text-align: center;
+}
+
+#middle {
+  font-size: 15px;
+  width: 1700px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+#imagesBox {
+  text-align: center;
+}
+
+#images0a {
+  float: left;
+  margin-left: 200px;
+}
+
+#images1a {
+  float: left;
+  margin-top: 50;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+#images1b {
+  margin-top: 50;
+  margin-right: 200px;
+}
+
+#desc1a {
+  float: left;
+  margin-left: 200px;
+}
+
+#desc0b{
+  margin-right: 240px;
+  float: right;
+}
+
+#desc1b{
+  margin-right: 240px;
+  float: right;
+}
+
+#desc2b{
+  margin-right: 375px;
+  text-align: right;
+}
+
+#row3 {
+  margin-bottom: 50px;
+}
+
+#model {
+  margin-right: 200px;
+}
+
